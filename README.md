@@ -8,6 +8,7 @@ php_search&amp;high
  *
  * @return mixed
  */
+
 function replay_keyword($keyword, $content)
 {
     $keyword = "/($keyword)/i";
@@ -16,5 +17,6 @@ function replay_keyword($keyword, $content)
 
     return $content;
 }
+
 
 echo replay_keyword("t","tttTT123t123123asdfasdftsdfddfdTasdfTTsdfsftSGFtSDF");
