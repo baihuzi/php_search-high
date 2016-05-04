@@ -21,3 +21,8 @@ function replay_keyword($keyword, $content)
 }
 
 echo replay_keyword("t","tttTT123t123123asdfasdftsdfddfdTasdfTTsdfsftSGFtSDF");
+
+
+
+
+
