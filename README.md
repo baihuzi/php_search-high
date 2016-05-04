@@ -18,6 +18,3 @@ function replay_keyword($keyword, $content)
 }
 
 echo replay_keyword("t","tttTT123t123123asdfasdftsdfddfdTasdfTTsdfsftSGFtSDF");
-
-
-<p style="display: inline;color: red;">t</p><p style="display: inline;color: red;">t</p><p style="display: inline;color: red;">t</p><p style="display: inline;color: red;">T</p><p style="display: inline;color: red;">T</p>123<p style="display: inline;color: red;">t</p>123123asdfasdf<p style="display: inline;color: red;">t</p>sdfddfd<p style="display: inline;color: red;">T</p>asdf<p style="display: inline;color: red;">T</p><p style="display: inline;color: red;">T</p>sdfsf<p style="display: inline;color: red;">t</p>SGF<p style="display: inline;color: red;">t</p>SDF
