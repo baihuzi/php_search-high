@@ -20,7 +20,7 @@ function replay_keyword($keyword, $content)
     return $content;
 }
 
-echo replay_keyword("t","tttTT123t123123asdfasdftsdfddfdTasdfTTsdfsftSGFtSDF");
+
 
 
 
